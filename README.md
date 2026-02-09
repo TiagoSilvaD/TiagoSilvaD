@@ -21,6 +21,6 @@
 
 <div style="display:flex"></div>
 
-<p> Apaixonado por tecnologia em busca de aprendizado e evolução! 👾 </p>
+<p> Apaixonado por tecnologia, em busca de aprendizado e evolução! 👾 </p>
 
 
