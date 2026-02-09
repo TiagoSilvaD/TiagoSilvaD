@@ -23,6 +23,4 @@
 
 <p> Apaixonado por tecnologia em busca de aprendizado e evolução! </p>
 
-<h2> Contato </h2>
 
-<a> https://web.whatsapp.com   <a> 
