@@ -1,6 +1,6 @@
 ## Hello, World!
 
-### Olá. Eu sou o Tiago.
+### Olá. Eu sou o Tiago. 🤙
 
 #### You can follow me on:
 
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-8b9817219/)
 
 
-### Development Skills
+### Development Skills 👨‍💻
 <hr>
 <div style="display: inline-block">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,6 +21,6 @@
 
 <div style="display:flex"></div>
 
-<p> Apaixonado por tecnologia em busca de aprendizado e evolução! </p>
+<p> Apaixonado por tecnologia em busca de aprendizado e evolução! 👾 </p>
 
 
