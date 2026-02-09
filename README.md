@@ -1,9 +1,10 @@
 ## Hello, World!
 
-### I'm web developer Front-end
+### Olá. Eu sou o Tiago.
 
 #### You can follow me on:
 
+[![instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/silv.7_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-8b9817219/)
 
 
@@ -16,9 +17,5 @@
 </div>
 <br>
 
-<div style="display:flex">
+<div style="display:flex"></div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=TiagoSilvaD&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseSS&theme=dark)](https://github.com/TiagoSilvaD)
-
-</div>
