@@ -11,11 +11,11 @@
 ### Development Skills 👨‍💻
 <hr>
 <div style="display: inline-block">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Sql" src="https://img.shields.io/badge/Sql-E34F26?style=for-the-badge&logo=Sql&logoColor=white"> 
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-239120?&style=for-the-badge&logo=Excel&logoColor=white">
+  <img alt="PowerBi" src="https://img.shields.io/badge/Power Bi-F7DF1E?style=for-the-badge&logo=PowerBi&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black">
   <br>
-   <img alt="CANVA" src="https://img.shields.io/badge/Canva-00CED1?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 <br>
 
