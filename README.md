@@ -1,26 +1,69 @@
-## Hello, World!
+# Hi 👋, I'm Tiago Silva
 
-### Olá. Eu sou o Tiago. 🤙
+🚀 **Systems Analysis and Development student specializing in Data**  
+🌎 Brazil
 
-#### You can follow me on:
+---
 
-[![instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/silv.7_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-8b9817219/)
+## 🌐 Where to find me
 
+<p align="left">
+  <a href="https://github.com/TiagoSilvaD">
+    <img src="https://img.shields.io/badge/GitHub-TiagoSilvaD-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/Silv.7_">
+    <img src="https://img.shields.io/badge/Instagram-@Silv.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/silva-tiagodados/">
+  <img src="https://img.shields.io/badge/LinkedIn--tiagodados-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### Development Skills 👨‍💻
-<hr>
-<div style="display: inline-block">
-  <img alt="Sql" src="https://img.shields.io/badge/Sql-E34F26?style=for-the-badge&logo=Sql&logoColor=white"> 
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-239120?&style=for-the-badge&logo=Excel&logoColor=white">
-  <img alt="PowerBi" src="https://img.shields.io/badge/Power Bi-F7DF1E?style=for-the-badge&logo=PowerBi&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black">
-  <br>
-</div>
-<br>
+</p>
 
-<div style="display:flex"></div>
+---
 
-<p> Apaixonado por tecnologia, em busca de aprendizado e evolução! 👾 </p>
+## 🧠 What I do
 
+- 📊 Dashboards & analytics
+- ⚡ Manutenção de Computadores
+- 🧩 HelpDesk
+- 🔐 análise de Dados
+- 💳 Criação de landing pages
+---
 
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=JavaScript&logoColor=000)
+![Html](https://img.shields.io/badge/Html-3178C6?style=for-the-badge&logo=HTML)
+![Css](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css)
+
+### Dados
+
+![Excel](https://img.shields.io/badge/Excel-339933?style=for-the-badge&logo=Excel)
+![SQL](https://img.shields.io/badge/SQL-512BD4?style=for-the-badge&logo=SQL)
+![PYTHON](https://img.shields.io/badge/PYTHON-2D3748?style=for-the-badge&logo=PYTHON)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+ 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoSilvaD&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSilvaD&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
