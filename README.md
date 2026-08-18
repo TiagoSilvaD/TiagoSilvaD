@@ -51,19 +51,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoSilvaD&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSilvaD&layout=compact&theme=tokyonight" />
-</p>
 
----
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=TiagoSilvaD&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TiagoSilvaD&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
 
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
